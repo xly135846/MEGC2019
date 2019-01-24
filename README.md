@@ -2,8 +2,8 @@
 #2019 Micro-expression Grand Challeng
 
 ## environment<br>
-Ubuntu16.04<br>
-python 3.6.2<br>
+Ubuntu16.04 <br>
+python 3.6.2 <br>
 Keras 2.2.4<br>
 Tensorflow 1.11.0<br>
 
