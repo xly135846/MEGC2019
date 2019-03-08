@@ -1,6 +1,6 @@
 # MEGC2019
 #2019 Micro-expression Grand Challeng <br>
-#We got the best result in this year. 
+#We got the best result in the ME recognition challenge of MEGC 2019. 
 ## environment<br>
 Ubuntu16.04 <br>
 python 3.6.2 <br>
